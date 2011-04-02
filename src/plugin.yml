@@ -1,0 +1,3 @@
+name: PrivateChat
+main: com.imma.bukkit.PChat.PChat
+version: 0.1.1
